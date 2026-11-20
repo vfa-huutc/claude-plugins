@@ -1,0 +1,12 @@
+{
+  "name": "huutc-plugins",
+  "owner": { "name": "vfa-huutc" },
+  "metadata": { "description": "Claude Code plugins for day-to-day git and GitHub work" },
+  "plugins": [
+    {
+      "name": "git-workflow",
+      "source": "./plugins/git-workflow",
+      "description": "Commit, pull request and GitHub issue skills"
+    }
+  ]
+}
